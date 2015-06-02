@@ -12,8 +12,8 @@
 
 
 实现两个代理方法：
-#pragma mark - UIScrollViewDelegate
+pragma mark - UIScrollViewDelegate
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView；
 - 
-#pragma mark - DMPageControlSelectedTabbarItem
+pragma mark - DMPageControlSelectedTabbarItem
 - (void)selectedIndex:(NSInteger)index；
